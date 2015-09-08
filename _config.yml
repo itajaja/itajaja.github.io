@@ -28,7 +28,7 @@ kramdown:
 owner:
   name: Giacomo Tagliabue
   avatar: bio-photo.jpg
-  bio: "Converting oxygen and calories into heat, since 1989."
+  bio: "Converting oxygen and calories into software, since 1989."
   email:
   disqus-shortname:
   twitter: #username
@@ -54,7 +54,7 @@ owner:
   youtube: #username
   soundcloud: #username
   weibo: #username
-  flickr: #username
+  flickr: 132960484@N04
   codepen: #username
 
 include: [".htaccess"]
