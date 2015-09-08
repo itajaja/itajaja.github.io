@@ -2,10 +2,16 @@
    Page layout
    ========================================================================== */
 
+html {
+	height: 100%;
+}
+
 body {
 	background-color: $bodycolor;
 	font-family: $base-font;
 	color: $text-color;
+	position: relative;
+  min-height: 100%;
 }
 
 /*
@@ -221,6 +227,7 @@ $button-size: 1.5rem;
 	counter-reset: captions;
 	@include container;
 	@include clearfix;
+	padding-bottom: $footer-height;
 	clear: both;
 	margin-top: 2em;
 	h1 {
@@ -626,7 +633,10 @@ $button-size: 1.5rem;
 	@include container;
 	@include clearfix;
 	clear: both;
-	padding-bottom: 3em;
+	height: $footer-height - .7em;
+	padding-bottom: .7em;
+	position: absolute;
+	bottom: 0;
 	a,
 	a:active,
 	a:visited,
