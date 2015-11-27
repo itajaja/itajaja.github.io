@@ -4,6 +4,7 @@ title: "A boilerplate for typescript and webpack"
 modified:
 excerpt: "A boilerplate project for using webpack, typescript and babel together"
 tags: [typescript, webpack, es6, karma, mocha]
+comments: true
 ---
 
 I always find that setting up a project's wire-frame of tools and scripts is the most daunting part of writing a Javascript application. The Unix-like philosophy of having small and composable tools has its weakest point in the integration among all the different parts. I was recently looking for a good way of using webpack as a build tool for typescript libraries, and I couldn't find a good boilerplate project that had **linting**, **testing** and **sourcemaps** and **typescript support** out of the box.
