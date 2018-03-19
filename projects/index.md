@@ -11,3 +11,4 @@ Check out some projects that are hosted on this website
 
 - **[CLRS](http://giacomotag.io/clrs)** ([source](http://github.com/itajaja/clrs))
 - **[Hexa-Battle](http://giacomotag.io/hb)** ([source](http://github.com/itajaja/hb))
+- **[Space Conquerors](https://sco-front-end.herokuapp.com)** ([source](http://github.com/itajaja/space-conquerors))
